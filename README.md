@@ -1,4 +1,7 @@
 # best-repo-ever
 
 Checking this out here initially
-this is second commit
+<<<<<<< HEAD
+next line to test merge issues
+=======
+
